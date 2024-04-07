@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="activity1_title">Atividade 1</string>
+    <string name="activity1_button">Abrir Atividade 2</string>
+    <string name="activity2_title">Atividade 2</string>
+    <string name="activity2_student_info">Nuno Oliveira N.º 20769</string>
+    <string name="activity2_button">Fechar Atividade 2</string>
+</resources>
